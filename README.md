@@ -1,2 +1,2 @@
 # TS-MOWGCN-refine-topology-graph
-A method for imbalance fault diagnosis
+The code and data will be uploaded after the paper is published
